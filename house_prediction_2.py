@@ -9,7 +9,7 @@ house_sizes = np.array([550, 600, 650, 700, 750, 800, 850, 900, 950, 1000])
 
 # Complete by student (Feature 2)
 # Simulate num_bedrooms, you may create more relevant features by your own
-num_bedrooms = np.array([, , , , , , , , , ])
+num_bedrooms = np.array([2, 3, 2, 3, 2, 3, 2, 3, 2, 3])
 
 # add more feature, e.g number of bathrooms, years etc
 
